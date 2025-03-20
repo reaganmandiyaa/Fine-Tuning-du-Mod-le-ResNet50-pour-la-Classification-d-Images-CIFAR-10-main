@@ -31,4 +31,4 @@ Commitez vos changements (git commit -m 'Add some AmazingFeature').
 Poussez vers la branche (git push origin feature/AmazingFeature).
 Ouvrez une Pull Request.
 ##Contact
-Pour toute question ou suggestion, veuillez contacter Deo à l'adresse suivante : deomundukuobama@gmail.com.
+Pour toute question ou suggestion, veuillez contacter Deo à l'adresse suivante : reagain.mandiya@unikin.ac.cd.
