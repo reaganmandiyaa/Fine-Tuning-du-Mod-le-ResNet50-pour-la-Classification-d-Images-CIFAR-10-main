@@ -1,6 +1,6 @@
 # Fine-Tuning-du-Mod-le-ResNet50-pour-la-Classification-d-Images-CIFAR-10
 ## Description du Projet
-Ce projet a été développé par Deo, étudiant en master en intelligence artificielle. L'objectif principal de ce projet est de classifier les images du dataset CIFAR-10 en utilisant un modèle ResNet50 pré-entraîné, modifié et ajusté (fine-tuned) pour cette tâche spécifique. Le projet inclut le chargement des données, le fine-tuning du modèle, et l'évaluation de ses performances.
+Ce projet a été développé par Reagan, étudiant en master en intelligence artificielle. L'objectif principal de ce projet est de classifier les images du dataset CIFAR-10 en utilisant un modèle ResNet50 pré-entraîné, modifié et ajusté (fine-tuned) pour cette tâche spécifique. Le projet inclut le chargement des données, le fine-tuning du modèle, et l'évaluation de ses performances.
 ![ảnh](https://github.com/user-attachments/assets/2d731a52-f925-4f3c-9329-8c8a356ee07b)
 
 
@@ -31,4 +31,4 @@ Commitez vos changements (git commit -m 'Add some AmazingFeature').
 Poussez vers la branche (git push origin feature/AmazingFeature).
 Ouvrez une Pull Request.
 ##Contact
-Pour toute question ou suggestion, veuillez contacter Deo à l'adresse suivante : reagain.mandiya@unikin.ac.cd.
+Pour toute question ou suggestion, veuillez contacter Reagan à l'adresse suivante : reagain.mandiya@unikin.ac.cd.
