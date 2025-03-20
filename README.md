@@ -4,7 +4,7 @@ Ce projet a été développé par Deo, étudiant en master en intelligence artif
 ![ảnh](https://github.com/user-attachments/assets/2d731a52-f925-4f3c-9329-8c8a356ee07b)
 
 
-https://github.com/DeoMuunduku/Fine-Tuning-du-Mod-le-ResNet50-pour-la-Classification-d-Images-CIFAR-10/blob/main/git.png
+https://github.com/reaganmandiyaa/Fine-Tuning-du-Mod-le-ResNet50-pour-la-Classification-d-Images-CIFAR-10/blob/main/git.png
 
 
 ## Objectifs
